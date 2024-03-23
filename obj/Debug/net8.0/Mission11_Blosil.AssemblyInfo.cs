@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission11_Blosil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd730b9e558e1e10a0a91ef47bfcb68d00f74c5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission11_Blosil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission11_Blosil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
